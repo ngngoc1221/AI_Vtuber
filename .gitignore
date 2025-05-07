@@ -1,0 +1,11 @@
+# Bo qua thu muc chua cac thu vien Python da cai dat
+GUI_control_panel/runtime/lib/
+
+# Giu lai quy tac bo qua chung cho cac truong hop khac (tuy chon)
+#__pycache__/
+#*.pyc
+
+# Dam bao tap tin requirements.txt khong bi bo qua
+!requirements.txt
+
+OpenAI/whisper/models/base.pt
